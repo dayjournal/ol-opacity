@@ -1,0 +1,23 @@
+{
+  "name": "ol-opacity",
+  "version": "1.0.0",
+  "description": "ol-opacity is a OpenLayers plugin that makes multiple tile layers transparent.",
+  "main": "dist/ol-opacity.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayjournal/ol-opacity.git"
+  },
+  "keywords": [
+    "OpenLayers",
+    "LayerControl",
+    "Opacity",
+    "tile",
+    "plugin"
+  ],
+  "author": "Yasunori Kirimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayjournal/ol-opacity/issues"
+  },
+  "homepage": "https://github.com/dayjournal/ol-opacity#readme"
+}
