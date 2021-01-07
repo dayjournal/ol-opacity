@@ -212,7 +212,7 @@ m_streets.setVisible(true);
 ## License
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2020-2021 Yasunori Kirimoto
 
 <br>
 
@@ -438,6 +438,6 @@ m_streets.setVisible(true);
 ## ライセンス
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2020-2021 Yasunori Kirimoto
 
 <br>
